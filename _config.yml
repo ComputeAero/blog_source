@@ -85,5 +85,5 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/computeaero/computeaero.github.io.git
+  repo: git@github.com:ComputeAero/computeaero.github.io.git
   branch: master
