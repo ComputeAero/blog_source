@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Feilin Blog
+title: Blog
 subtitle:
-description: Note on computing, IT, education, etc.
+description: Note on computer, IT, art, education, etc.
 keywords:
-author: Feilin Jia
+author: F.L.
 language: en
 timezone: US/Central
 
